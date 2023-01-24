@@ -1,0 +1,19 @@
+p {
+    background-color: rgb(236, 103, 103);
+    color:#000000l;
+    font-family:Verdanam,"DejaVu Sans",sans-serif;
+}
+
+#Boldblue{
+    color:rgb(52, 52, 238);
+    font-size:36px;
+}
+
+.cooler{
+    font-size:24px;
+}
+
+#Greenbold{
+    background-color: rgb(100, 203, 140);
+    font-weight:bold;
+}

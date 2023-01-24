@@ -1,0 +1,15 @@
+.left {
+    color:rgb(240, 229, 229);
+    background-color:black;
+}
+
+.right{
+    color: black;
+    background-color:rgb(219, 233, 130);
+}
+
+.left,
+.right {
+    font-size:28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
